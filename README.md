@@ -107,3 +107,4 @@ Keeping `src/app/` strictly for routing/screens and placing theme derivation, ru
 - Config-driven Home sections, collapsible header, skeletons, gesture-driven booking sheet, SVG success animation, prescriptions/dose tracker, and Admin editor: ~50 mins
 - Testing, lint fixes (React Compiler + Reanimated 4 `.set()` APIs), and documentation: ~30 mins
 - **Total**: ~2 hours 20 minutes
+# Tapza_care
